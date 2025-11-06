@@ -4,6 +4,8 @@ A machine learning project that predicts UFC fight outcomes.
 
 This project uses logistic regression to predict the winner of UFC fights by analyzing differences in fighter statistics. The model is trained on historical UFC data from 1994-2025 and achieves approximately 80% accuracy.
 
+The model is less accurate for fighters with less fights in the UFC
+
 ## Disclaimer!!
 
 This model makes mistakes. If you use this model to bet on fights, it is 100% on you if the prediction is incorrect
